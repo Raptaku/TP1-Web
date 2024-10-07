@@ -63,11 +63,15 @@ article h3 {
 }
 
 .champ-form{
-  margin-left: 30vw;
+  margin-left: 20vw;
+}
+
+#message{
+  margin-left: 25vw;
 }
 
 #bouton{
-  margin-left: 45vw;
+  margin-left: 25vw;
   border-radius: 20%;
   padding: 1%;
   background-color: #f9f9f9;
@@ -95,8 +99,9 @@ footer {
 }
 
 #logos img {
-  width: 60px;
-  margin: 0 10px;
+  width: 70px;
+  height: auto;
+  margin: 0 40px;
 }
 
 #validators {
